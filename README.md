@@ -242,6 +242,3 @@ This project was developed as part of hands-on work with UAV flight-control syst
 It complements physical flight-controller experimentation by providing a safe simulation environment for testing flight-control and autonomy concepts before deployment on real hardware.
 
 ```
-
-That way the README stays **professional and readable**, while your actual technical work is still documented underneath it.
-```
